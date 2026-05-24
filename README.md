@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chewyio
+- 👋 Hi, I’m Mothie
 - 👀 I’m interested in streaming and gaming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: Discord @ mothsprockett
