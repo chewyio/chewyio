@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chewyio
 - 👀 I’m interested in streaming and gaming
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: Discord @ chewyio.ttv
+- 📫 How to reach me: Discord @ mothsprockett
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I might be your daddy.
 
